@@ -1,2 +1,1 @@
-# Mediafisika
-Media Gerak Harmonik
+
